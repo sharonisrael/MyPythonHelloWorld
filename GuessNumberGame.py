@@ -3,6 +3,7 @@ guess_numer = 42
 user_input = -1
 
 # test
+# test2
 while (user_input != guess_numer):
     print("Please enter number")
     user_input_str = input()
